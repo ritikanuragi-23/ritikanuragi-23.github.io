@@ -1,5 +1,7 @@
 # ABOUT  ME
 ![Ritik Anuragi](https://media.licdn.com/dms/image/D4D03AQG-ehD4g4MjOw/profile-displayphoto-shrink_800_800/0/1705300744656?e=2147483647&v=beta&t=O7fv1cc7jNsQUbiuICWm2Lka_mGD0xB4veCGn4h9_TI)
+
+
 Hi there, i am a student of school Computer science at **IIT GOA**
 ## Ritik Anuragi
 ## contact
