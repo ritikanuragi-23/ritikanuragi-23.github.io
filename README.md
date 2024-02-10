@@ -1,5 +1,6 @@
 # ABOUT  ME
-![Ritik Anuragi](https://media.licdn.com/dms/image/D4D03AQG-ehD4g4MjOw/profile-displayphoto-shrink_800_800/0/1705300744656?e=2147483647&v=beta&t=O7fv1cc7jNsQUbiuICWm2Lka_mGD0xB4veCGn4h9_TI)Hi there, i am a student of school Computer science at **IIT GOA**
+![Ritik Anuragi](https://media.licdn.com/dms/image/D4D03AQG-ehD4g4MjOw/profile-displayphoto-shrink_800_800/0/1705300744656?e=2147483647&v=beta&t=O7fv1cc7jNsQUbiuICWm2Lka_mGD0xB4veCGn4h9_TI)
+Hi there, i am a student of school Computer science at **IIT GOA**
 ## Ritik Anuragi
 ## contact
 9302025366
@@ -7,7 +8,7 @@
 [Linkdin](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjskNuTv5iEAxU6-TgGHWCNBWIQFnoECBMQAQ&url=https://in.linkedin.com/in/ritik-anuragi-2488152aa&usg=AOvVaw393rTAYH_4W7gL9RiTIsXd&opi=89978449)
 ### Education
 | Academic year | Standard | School name  |
-|---------------|----------|--------------|
+| ------------- | -------- | ------------ |
 | 2023          | First    |      CSE     |
 
 ## Course@IIT Goa
