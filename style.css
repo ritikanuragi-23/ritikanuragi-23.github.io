@@ -1,0 +1,86 @@
+
+#about-me {
+  border: 2pt solid black;
+  background-color: lightcoral;
+}
+
+#name {
+  font-weight: bold;
+  font-family: 'Times New Roman', sans-serif;
+  font-size: 13pt;
+  text-align: left;
+}
+
+#profile-picture {
+  width: 172pt;
+  height: 172pt;
+  float: right;
+}
+
+#description {
+  font-family: sans-serif;
+  color: blue;
+}
+
+
+#education-table {
+  border-spacing: 10pt;
+  background-color: lightblue;
+}
+
+#education-table th {
+  text-decoration: underline;
+}
+
+#education-table td {
+  padding: 10pt;
+}
+
+#education-table td:nth-child(2) {
+  text-align: center;
+}
+
+.spring-semester, .autumn-semester {
+  display: inline-block;
+  width: 45%;
+  margin: 2%;
+}
+
+.spring-semester {
+  background-color: green;
+  border: 3pt solid black;
+}
+
+.autumn-semester {
+  background-color: lightpink;
+  border: 3pt solid black;
+}
+
+.spring-semester a:link {
+  color: blue;
+}
+
+.spring-semester a:visited {
+  color: gray;
+}
+
+.spring-semester a:active {
+  color: pink;
+}
+
+.spring-semester a:hover {
+  color: green;
+}
+
+.autumn-semester ol {
+  list-style-type: lower-roman;
+}
+
+
+
+
+.body1 {
+  background-image: url('https://img.freepik.com/free-vector/mountain-lake-sunset-landscape-realistic-tree-forest-mountain-silhouettes-evening-wood-panorama-illustration-wild-nature-background_1150-39419.jpg?size=626&ext=jpg&ga=GA1.1.662594653.1708495726&semt=ais');
+  background-size: cover;
+}
+ 
