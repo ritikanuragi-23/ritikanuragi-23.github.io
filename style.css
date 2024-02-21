@@ -12,6 +12,7 @@
 }
 
 #profile-picture {
+  margin-left: -90px;
   width: 172pt;
   height: 172pt;
   float: right;
